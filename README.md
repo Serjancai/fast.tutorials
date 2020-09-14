@@ -7,7 +7,7 @@
 
 </head> 
 
-<body text= "White" background= "https://i.pinimg.com/736x/4c/91/39/4c9139333227cd8d23b3a516215dfb56.jpg"> 
+<body text= "White" background= "https://i.pinimg.com/736x/23/f7/21/23f72143488260c605d5b51ee1192c05.jpg"> 
 
 <h1 align="center"> Fast tutorials </h1><hr /> 
 
