@@ -14,7 +14,7 @@
 <h2 align="center"> <font face="Franklin Gothic Medium"> O que é? </font> </h1>
 <h3 align="center"> <font face="Franklin Gothic Medium"> Nos dias atuais é praticamente inpossível viver sem saber o básico de tecnologia, por isso cramos o <i>fast tutorials</i>,<br /> uma forma fácil, de você aprender tudo oque precisa,e se aprofundar, se já tem um pouco de conhecimento.</font> </h3> 
 
-<h2 align="center"> <font face="Franklin Gothic Medium"> tipos de tutoriais: </font></h2> 
+<h2 align="center"> <font face="Franklin Gothic Medium"> tipos de tutoriais:</h2> 
 
 <h3 align="center"> <font face="Franklin Gothic Medium"> texto, imagem, vídeo e um sistema que lhe guia em sua tela </font> </h3> 
 
@@ -31,4 +31,3 @@
 
 
 </html>
-
