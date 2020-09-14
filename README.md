@@ -7,7 +7,7 @@
 
 </head> 
 
-<body text= "White" background= "https://ae01.alicdn.com/kf/HTB1gsQCSpXXXXXzaXXXq6xXFXXXq/3D-Geom-trico-Moderno-Rolo-Papel-de-Parede-para-Paredes-3-D-Grade-de-Fundo-papel.jpg"> 
+<body text= "black" background= "https://ae01.alicdn.com/kf/HTB1gsQCSpXXXXXzaXXXq6xXFXXXq/3D-Geom-trico-Moderno-Rolo-Papel-de-Parede-para-Paredes-3-D-Grade-de-Fundo-papel.jpg"> 
 
 <h1 align="center"> Fast tutorials </h1><hr /> 
 
