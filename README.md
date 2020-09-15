@@ -20,15 +20,15 @@
 
  
 
-<h2 align="center">A aba comunidade</h2> 
+<h2 align="center">A aba comunidade</h2>
 
 
-<h2 aling="center">em costrução</h2> 
+<h2 align="center">em costrução</h2> 
 
 
 
 
-<h5 aling= "center"> Esste site foi feito por <a href= "https://github.com/Serjancai"> Serjancai </a> e também por <a href= "https://github.com/PGalaxio"> Pgalaxio </a>
+<h5 align= "center"> Esste site foi feito por <a href= "https://github.com/Serjancai"> Serjancai </a> e também por <a href= "https://github.com/PGalaxio"> Pgalaxio </a>
 
 
 </body>
