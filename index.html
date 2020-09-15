@@ -7,7 +7,7 @@
 
 </head> 
 
-<body text= "black" background= "https://www.casasbahia-imagens.com.br/decoracao/papeldeparede/15055026/1099524662/papel-parede-geometrico-textura-efeito-3d-quarto-050x300m-15055026.jpg"> 
+<body text= "696969" background= "https://www.casasbahia-imagens.com.br/decoracao/papeldeparede/15055026/1099524662/papel-parede-geometrico-textura-efeito-3d-quarto-050x300m-15055026.jpg"> 
 
 <h1 align="center"> <font face= "Consolas"> Fast tutorials </font> </h1><hr /> 
 
