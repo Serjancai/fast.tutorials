@@ -7,7 +7,7 @@
 
 </head> 
 
-<body text= "White" background= "https://thumbs.dreamstime.com/t/fundo-escuro-vertical-da-textura-da-fibra-do-carbono-63431809.jpg"> 
+<body text= "black" background= "https://ae01.alicdn.com/kf/HTB1gsQCSpXXXXXzaXXXq6xXFXXXq/3D-Geom-trico-Moderno-Rolo-Papel-de-Parede-para-Paredes-3-D-Grade-de-Fundo-papel.jpg"> 
 
 <h1 align="center"> Fast tutorials </h1><hr /> 
 
@@ -20,10 +20,10 @@
 
  
 
-<h2 aling= "center"> A aba comunidade </h2> 
+<h2 align="center"> A aba comunidade </h2> 
 
 
-<h2> ainda em costrução </h2> 
+<h2> aling="center"> em costrução </h2> 
 
 
 
