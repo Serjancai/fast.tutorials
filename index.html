@@ -7,7 +7,7 @@
 
 </head> 
 
-<body text= "#8FBC8F" background= "https://cdn.awsli.com.br/1000x1000/464/464644/produto/25269354/274a5b0f0b.jpg"> 
+<body text= "#90EE90" background= "https://cdn.awsli.com.br/1000x1000/464/464644/produto/25269354/274a5b0f0b.jpg"> 
 
 <h1 align="center"> <font face= "Consolas"> Fast tutorials </font> </h1><hr /> 
 
