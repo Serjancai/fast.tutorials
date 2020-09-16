@@ -7,7 +7,7 @@
 
  </head> 
 
-<body text= "#000000" background= "https://www.ploomes.com/images/growth.jpeg"> 
+<body text= "#2F4F4F" background= "https://www.ploomes.com/images/growth.jpeg"> 
 
 <h1 align="center"> <font face= "Perpetua"> Fast tutorials </font> </h1><hr /> 
 
