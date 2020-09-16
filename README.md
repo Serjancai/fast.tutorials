@@ -12,7 +12,7 @@
 <h1 align="center"> <font face= "Perpetua"> Fast tutorials </font> </h1><hr /> 
 
 <h2 align="center"> <font face= "Perpetua"> O que é? </font> </h1>
-<h3 align="center"> <font face= "Perpetua"> Nos dias atuais é praticamente impossível viver sem saber o básico de tecnologia, por isso cramos o <i>fast tutorials</i>, uma forma fácil de você aprender tudo o que precisa, e se aprofundar, se já tem um pouco de conhecimento. </font> </h3> 
+<h3 align="center"> <font face= "Perpetua"> Nos dias atuais é praticamente impossível viver sem saber o básico de tecnologia, por isso cramos o <i>fast tutorials</i>,<br/> uma forma fácil de você aprender tudo o que precisa, e se aprofundar, se já tem um pouco de conhecimento. </font> </h3> 
 
 <h2 align="center"> <font face= "Perpetua"> Tipos de tutoriais: </font> </h2> 
 
@@ -23,7 +23,11 @@
 <h2 align="center"> <font face= "Perpetua"> A aba comunidade</font></h2>
 
 
-<h2 align="center"> <font face= "Perpetua">em costrução</font></h2> 
+<h3 align="center"> <font face= "Perpetua"> A aba comunidade é um lugar para você trocar conhecimento com outras pessoas:<br /> Você pode criar seus tutoriais ou ver o de outras pessoas <br > e até discutir no chat com outros usuários. </font> </h2> 
+ 
+ <h2 align="center"> <font face= "Perpetua"> As categorias: </h3> 
+  
+  <h2align="center"> Em progamação </h2> 
 
 
 
