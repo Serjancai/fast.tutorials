@@ -27,7 +27,7 @@
  
  <h2 align="center"> <font face= "Perpetua"> As categorias: </h3> 
   
-  <h2align="center"> Em progamação </h2> 
+  <h2 align="center"> Em progamação </h2> 
 
 
 
