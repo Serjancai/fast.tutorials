@@ -16,7 +16,10 @@
 
 <h2 align="center"> <font face= "Perpetua"> Tipos de tutoriais: </font> </h2> 
 
-<h3 align="center"> <font face= "Perpetua">  texto; imagem; vídeo e um sistema que lhe guia em sua tela </font> </h3> 
+<h3 align="center"> <font face= "Perpetua">  texto; imagem; vídeo e um sistema que lhe guia em sua tela </font> </h3>  
+
+<img src="https://techrev.me/wp-content/uploads/2019/09/cropped-how-to-make-tutorial-videos-1600x768.jpg" alt="imagem tutorial" title="tutorial" width="300" >
+ 
 
  
 
