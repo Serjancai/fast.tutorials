@@ -23,7 +23,9 @@
 
  
 
-<h2 align="center"> <font face= "Perpetua"> A aba comunidade</font></h2>
+<h2 align="center"> <font face= "Perpetua"> A aba comunidade</font></h2> 
+
+<img src="https://www.questionpro.com/blog/wp-content/uploads/2020/04/4575-768x439.jpg" alt="imagem comunidade" title="comunidade" width=400" hspace="500">
 
 
 <h3 align="center"> <font face= "Perpetua"> A aba comunidade é um lugar para você trocar conhecimento com outras pessoas:<br /> Você pode criar seus tutoriais ou ver o de outras pessoas <br > e até discutir no chat com outros usuários. </font> </h2> 
