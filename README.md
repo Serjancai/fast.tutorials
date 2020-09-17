@@ -21,7 +21,7 @@
 <img src="https://techrev.me/wp-content/uploads/2019/09/cropped-how-to-make-tutorial-videos-1600x768.jpg" alt="imagem tutorial" title="tutorial" width="300" hspace="500"> 
  
 
- 
+ <h2 align="center"> ainda em construção </h2>
 
 <h2 align="center"> <font face= "Perpetua"> A aba comunidade</font></h2>
 
