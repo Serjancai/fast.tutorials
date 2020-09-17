@@ -34,8 +34,7 @@
   
   <h3 align="center"> <font face= "Perpetua">  Existem várias categorias selecionáveis: <hr /> Tutorias de apps famosos,como WhatsApp por exenplo </h3> 
 
-<img src="https://www.radiosaojosefm.com.br/files/2019/09/android.jpg" alt="imagem comunidade" title="comunidade" width="350" hspace="500">
-
+<img src="https://www.radiosaojosefm.com.br/files/2019/09/android.jpg"  alt="imagem apps" title="apps famosos" width="300" hspace="500">
 
 <h5 align= "center"> Esste site foi feito por <a href= "https://github.com/Serjancai"> Serjancai </a> e também por <a href= "https://github.com/PGalaxio"> Pgalaxio </a>
 
