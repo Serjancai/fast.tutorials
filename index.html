@@ -58,7 +58,7 @@
    <img src="https://theshoppers.com/wp-content/uploads/Por-que-o-Android-e-o-iPhone-sa%CC%83o-ta%CC%83o-diferentes-5.jpg" alt="imagem androide e ios" title="androide e ios" width="390" hspace="500"> 
 
 
-<h5 align="center"> Esste site foi feito por <a href= "https://github.com/Serjancai"> Serjancai </a> e também por <a href= "https://github.com/PGalaxio"> Pgalaxio </a> </h5> 
+<h5 aling="center"> Esste site foi feito por <a href= "https://github.com/Serjancai"> Serjancai </a> e também por <a href= "https://github.com/PGalaxio"> Pgalaxio </a> </h5> 
 
 
 
