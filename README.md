@@ -49,10 +49,10 @@
  
    <img src="https://www.vtekassistencia.com.br/site/wp-content/uploads/2017/10/ref_b_vtek_site_banner_reparo_avan%C3%A7ado_1920x1080px.png" alt="imagem assistencia tecnica" title="cassistencia tecnica" width="380" hspace="500"> 
    
-   <h3 aling="center"> tutoriais de manutenção de seu dispositivo, e chat com tecnicos </h3>
+   <h3 align="center"> tutoriais de manutenção de seu dispositivo, e chat com tecnicos </h3>
 
 
-<h5 aling="center"> Esste site foi feito por <a href= "https://github.com/Serjancai"> Serjancai </a> e também por <a href= "https://github.com/PGalaxio"> Pgalaxio </a> </h5> 
+<h5 align="center"> Esste site foi feito por <a href= "https://github.com/Serjancai"> Serjancai </a> e também por <a href= "https://github.com/PGalaxio"> Pgalaxio </a> </h5> 
 
 
 
