@@ -58,14 +58,12 @@
    <img src="https://theshoppers.com/wp-content/uploads/Por-que-o-Android-e-o-iPhone-sa%CC%83o-ta%CC%83o-diferentes-5.jpg" alt="imagem androide e ios" title="androide e ios" width="390" hspace="500"> 
 
 <h2 align="center"> Financiamento </h2> <hr /> 
-   <h3 aling="center"> ainda em Progamação > </h2> 
+   <h3 align="center"> ainda em Progamação  </h2> 
 
 
-<h5 align="center"> Esste site foi feito por <a href= "https://github.com/Serjancai"> Serjancai </a> e também por <a href= "https://github.com/PGalaxio"> Pgalaxio <br /> Esse app é apenas um conceito e não existe realmente </a> </h5> 
+<h5 align="center"> Esste site foi feito por <a href= "https://github.com/Serjancai"> Serjancai </a> e também por <a href= "https://github.com/PGalaxio"> Pgalaxio </a> <br /> Esse app é apenas um conceito e não existe realmente  </h5> 
 
 
-
-<h5 align="center"> Esste site foi feito por <a href= "https://github.com/Serjancai"> Serjancai </a> e também por <a href= "https://github.com/PGalaxio"> Pgalaxio </a> </h5> 
 
 
 
