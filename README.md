@@ -56,7 +56,7 @@
    <h3 align="center"> <font face= "Perpetua"> Estará disponível para androide e ios, em suas vária versões dos mesmos </h3> 
    
    <img src="https://theshoppers.com/wp-content/uploads/Por-que-o-Android-e-o-iPhone-sa%CC%83o-ta%CC%83o-diferentes-5.jpg" alt="imagem androide e ios" title="androide e ios" width="390" hspace="500"> 
-
+<!-- Finaciamento -->
 <h2 align="center"> <font face= "Perpetua"> Financiamento </h2> <hr /> 
    <h3 align="center"> <font face= "Perpetua"> ainda em Progamação  </h2> 
 
