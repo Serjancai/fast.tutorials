@@ -59,7 +59,7 @@
 <!-- Finaciamento -->
 <h2 align="center"> <font face= "Perpetua"> Financiamento </h2> <hr /> 
  
-<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.viasul.com%2Fsimulacao-de-financiamento%2F&psig=AOvVaw0nZcIzrV3FpHDGhBHod43c&ust=1602935408726000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi8u7WGuewCFQAAAAAdAAAAABAJ"alt="imagem financiamento" title="financiamento" width="390" hspace="500"> 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.viasul.com%2Fsimulacao-de-financiamento%2F&psig=AOvVaw0nZcIzrV3FpHDGhBHod43c&ust=1602935408726000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi8u7WGuewCFQAAAAAdAAAAABAJ" alt="imagem financiamento" title="financiamento" width="390" hspace="500"> 
 
  
 <h3 align="center> <font face= "perpetua"> O app será finaciado por anúncios discretos na parte inferior da tela e <br /> por doaçãoes da comunidade caso queiram apoiar o projeto, já que será gratúito </h3>
